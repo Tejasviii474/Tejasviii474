@@ -20,9 +20,6 @@ AI Engineer · ML Engineer · MLOps Engineer · Data Scientist · Data Engineer 
 **ML / DL / AI**
 `Machine Learning` `Deep Learning` `TensorFlow` `PyTorch` `Scikit-learn`
 
-**Generative AI & Agents**
-`LangChain` `LangGraph` `Agentic AI` `RAG`
-
 **Data**
 `NumPy` `Pandas` `EDA` `Feature Engineering`
 
