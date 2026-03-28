@@ -24,7 +24,7 @@ AI Engineer · ML Engineer · MLOps Engineer · Data Scientist · Data Engineer 
 `NumPy` `Pandas` `EDA` `Feature Engineering`
 
 **MLOps & Deployment**
-`Docker` `MLflow` `FastAPI` `Git`
+`MLflow` `FastAPI` `Git`
 
 ---
 
