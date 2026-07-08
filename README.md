@@ -116,7 +116,7 @@ Hybrid deep learning model fusing EfficientNet-B0, ResNet-50, and a Vision Trans
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tejasviii474/Tejasviii474/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Tejasviii474/Tejasviii474/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
